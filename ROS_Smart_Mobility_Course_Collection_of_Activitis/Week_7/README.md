@@ -9,6 +9,7 @@ The goal of this project is to present a ROS 2 application that performs compute
 # Diagram of Interaction:
 
 # Interaction Diagram:
+![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/a9101c84-d701-4c1d-893c-8ab5fc1748e4)
 
 
 ## File Structure
