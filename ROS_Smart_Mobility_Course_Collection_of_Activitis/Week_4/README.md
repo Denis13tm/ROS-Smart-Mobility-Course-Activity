@@ -7,7 +7,7 @@ Starting the turtlesim simulator.
 
 ### Using turtlesim
 Running a node to control the turtle in the simulator.
-![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/d2fa8a05-64f3-45ee-b6df-c448f6a34a35)
+![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/4c84b955-d46c-4e65-a501-e2a6234bb939)
 
 ### Using rqt
 rqt is a graphical user interface (GUI) tool for ROS 2. Everything done in rqt can be done on the command line, but rqt provides a more user-friendly way to manipulate ROS 2 elements.
