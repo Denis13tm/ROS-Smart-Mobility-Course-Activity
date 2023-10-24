@@ -13,10 +13,9 @@ Running a node to control the turtle in the simulator.
 rqt is a graphical user interface (GUI) tool for ROS 2. Everything done in rqt can be done on the command line, but rqt provides a more user-friendly way to manipulate ROS 2 elements.
 ![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/06d52545-dbd3-4e21-8b88-967543e70714)
 
-### Trying the spawn service
+---Trying the spawn service
 /spawn will create another turtle in the turtlesim window.
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/4288e874-69be-4ff3-8737-560e05148cf3)
-
+-
 ### Trying the set_pen service
 The values for r, g, and b, which are between 0 and 255, set the color of the pen turtle1 draws with, and width sets the thickness of the line.
 ![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/a8ffd85f-e9e4-47ba-8fb7-d2e988893145)
