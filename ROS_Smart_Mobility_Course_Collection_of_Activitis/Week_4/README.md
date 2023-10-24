@@ -3,6 +3,7 @@
 ## Using turtlesim, ros2, and rqt
 ### Starting turtlesim
 Starting the turtlesim simulator.
+![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/10d0d20b-a489-409f-8734-41aefd8828da)
 
 ![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/9f59f63c-d743-43d5-86fd-4d83d24a516f)
 ![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/afc19565-fabb-4ed2-9301-13bb772724a9)
