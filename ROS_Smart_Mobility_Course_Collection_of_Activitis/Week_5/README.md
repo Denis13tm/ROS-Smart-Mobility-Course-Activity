@@ -7,8 +7,6 @@ If you are using rosdep within the ROS ecosystem, it is conveniently included wi
 
 apt-get install python3-rosdep
 ```
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/b8f55a7e-ba99-428b-a0a9-621fb5f30c20)
-
 Note: For Debian and Ubuntu users, please ensure that you do not have a similarly named package called python3-rosdep2 installed before proceeding with the installation of python3-rosdep.
 
 If you are using rosdep outside of ROS or the system package is unavailable, you can install it directly from PyPI using pip:
@@ -27,7 +25,7 @@ Now that you have rosdep installed, you can use it to manage dependencies. If yo
 sudo rosdep init
 rosdep update
 ```
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/642bc5c3-aaf8-415e-b57d-7f73c35e2250)
+
 
 This initializes rosdep and updates the locally cached rosdistro index. Periodically updating rosdep is advisable to ensure you have the latest index.
 
@@ -37,7 +35,6 @@ To install dependencies, you can use rosdep install. Typically, you would run th
 
 rosdep install --from-paths src -y --ignore-src
 ```
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/e4839ed9-ef0c-4e1c-94d8-ddad2bf9a333)
 
 Breaking down the command:
 
@@ -49,7 +46,7 @@ Feel free to customize the rosdep install command as needed for your specific wo
 
 ## Creating an action
 ### Creating a package
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/48f6ce8b-c06e-4a5a-9ed9-bdadb98b15c5)
+
 
 ### Defining an Action
 
@@ -132,7 +129,6 @@ You can check that the action was built successfully using the command-line tool
 # Check that the action definition exists
 ros2 interface show action_tutorials_interfaces/action/Fibonacci
 ```
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/6298c001-7370-4d54-9a47-65b05f2a5931)
 
 With these steps, you have defined and built a custom ROS 2 action for computing the Fibonacci sequence. You can now use this action in your ROS 2 projects.
 
