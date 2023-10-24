@@ -1,7 +1,7 @@
 # ROS2
 
 ## Using turtlesim, ros2, and rqt
-### Starting turtlesim
+---- Starting turtlesim
 Starting the turtlesim simulator.
 ![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/10d0d20b-a489-409f-8734-41aefd8828da)
 
