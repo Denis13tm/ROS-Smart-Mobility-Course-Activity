@@ -11,7 +11,7 @@ Running a node to control the turtle in the simulator.
 
 ### Using rqt
 rqt is a graphical user interface (GUI) tool for ROS 2. Everything done in rqt can be done on the command line, but rqt provides a more user-friendly way to manipulate ROS 2 elements.
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/06a68a95-0d85-46f1-99fb-b59ad2a0733d)
+![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/06d52545-dbd3-4e21-8b88-967543e70714)
 
 ### Trying the spawn service
 /spawn will create another turtle in the turtlesim window.
