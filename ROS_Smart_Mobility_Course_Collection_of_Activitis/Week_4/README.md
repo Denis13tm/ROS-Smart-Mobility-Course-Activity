@@ -5,12 +5,9 @@
 Starting the turtlesim simulator.
 ![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/10d0d20b-a489-409f-8734-41aefd8828da)
 
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/9f59f63c-d743-43d5-86fd-4d83d24a516f)
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/afc19565-fabb-4ed2-9301-13bb772724a9)
-
 ### Using turtlesim
 Running a node to control the turtle in the simulator.
-![image](https://github.com/ImAli0/ROS_Smart_Mobility_Course_activities/assets/113502495/7892ecd1-2006-4994-bf34-dcecc2a11632)
+![image](https://github.com/Denis13tm/ROS-Smart-Mobility-Course-Activity/assets/69725678/d2fa8a05-64f3-45ee-b6df-c448f6a34a35)
 
 ### Using rqt
 rqt is a graphical user interface (GUI) tool for ROS 2. Everything done in rqt can be done on the command line, but rqt provides a more user-friendly way to manipulate ROS 2 elements.
